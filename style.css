@@ -616,8 +616,7 @@ section{
 }
 
 .blogs .blogs-slider .box .image img{
-    height: 500 px;
-    width: 500 px;
+    
     object-fit: cover;
 }
 
