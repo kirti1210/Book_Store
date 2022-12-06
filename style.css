@@ -616,9 +616,9 @@ section{
 }
 
 .blogs .blogs-slider .box .image img{
-    height:100 px;
-    width:100 px;
-    
+    height:100%;
+    width:100%;
+    object-fit: cover;
 }
 
 .blogs .blogs-slider .box:hover .image img{
