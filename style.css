@@ -618,7 +618,7 @@ section{
 .blogs .blogs-slider .box .image img{
     height:100 px;
     width:100 px;
-    object-fit: cover;
+    
 }
 
 .blogs .blogs-slider .box:hover .image img{
